@@ -139,7 +139,7 @@ export default function Home() {
 								
 							</div> */}
 							<div className="h-[550px] p-2 w-full">
-								{/*<Spline scene="https://prod.spline.design/R0HBHa5RfWWD6YpA/scene.splinecode" />*/}
+								<Spline scene="https://prod.spline.design/R0HBHa5RfWWD6YpA/scene.splinecode" />
 							</div>
 							{/* Floating elements */}
 							<motion.div
