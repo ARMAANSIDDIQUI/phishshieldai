@@ -138,9 +138,9 @@ export default function Home() {
 							{/* <div className="relative w-full h-96 lg:h-[500px] rounded-2xl bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center border border-primary/20 shadow-strong">
 								
 							</div> */}
-							<div className="h-[550px] p-2 w-full">
-								{/*<Spline scene="https://prod.spline.design/R0HBHa5RfWWD6YpA/scene.splinecode" />*/}
-							</div>
+							{/*<div className="h-[550px] p-2 w-full">
+								<Spline scene="https://prod.spline.design/R0HBHa5RfWWD6YpA/scene.splinecode" />
+							</div>*/}
 							{/* Floating elements */}
 							<motion.div
 								animate={{ y: [0, -10, 0] }}
