@@ -29,7 +29,7 @@ const ChatbotFAB = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [message, setMessage] = useState('');
   const [messages, setMessages] = useState<Array<{id: number, text: string, isUser: boolean}>>([
-    { id: 1, text: "Hi! I'm your PhishShield AI assistant. How can I help you stay safe online today?", isUser: false }
+    { id: 1, text: "Hi! I'm your TrustNet Cybercop assistant. How can I help you stay safe online today?", isUser: false }
   ]);
 
   const sendMessage = async () => {
@@ -57,7 +57,7 @@ const ChatbotFAB = () => {
           className="mb-4 w-80 bg-white rounded-2xl shadow-strong border border-border"
         >
           <div className="p-4 border-b border-border">
-            <h3 className="font-semibold text-lg">PhishShield Assistant</h3>
+            <h3 className="font-semibold text-lg">TrustNet Cybercop Assistant</h3>
             <p className="text-sm text-muted-foreground">Ask me about cybersecurity</p>
           </div>
           

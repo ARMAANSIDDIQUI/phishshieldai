@@ -1,4 +1,4 @@
-# PhishShield AI - Advanced Cybersecurity Protection
+# TrustNet Cybercop - Advanced Cybersecurity Protection
 
 A modern, AI-powered cybersecurity application that protects users from phishing attacks and online threats through real-time detection and intelligent analysis.
 
@@ -69,7 +69,7 @@ A modern, AI-powered cybersecurity application that protects users from phishing
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd phishshield-ai
+   cd TrustNet Cybercop-ai
    ```
 
 2. **Install dependencies**
@@ -172,4 +172,4 @@ npm run lint
 
 ---
 
-**PhishShield AI** - Protecting your digital life with advanced AI technology. 🛡️✨
+**TrustNet Cybercop** - Protecting your digital life with advanced AI technology. 🛡️✨

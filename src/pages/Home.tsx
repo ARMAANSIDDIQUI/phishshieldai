@@ -86,7 +86,7 @@ export default function Home() {
 								</h1>
 
 								<p className="text-xl text-muted-foreground leading-relaxed max-w-2xl">
-									PhishShield AI uses advanced artificial intelligence to detect
+									TrustNet Cybercop uses advanced artificial intelligence to detect
 									and block phishing attempts in real-time. Stay safe online
 									with our intelligent protection system.
 								</p>
@@ -229,10 +229,10 @@ export default function Home() {
 							className="space-y-8">
 							<div className="space-y-4">
 								<h2 className="text-4xl lg:text-5xl font-bold">
-									Why Choose PhishShield AI?
+									Why Choose TrustNet Cybercop?
 								</h2>
 								<p className="text-xl text-muted-foreground">
-									Join thousands of users who trust PhishShield AI to protect
+									Join thousands of users who trust TrustNet Cybercop to protect
 									their digital lives. Our advanced technology and user-focused
 									design deliver unparalleled security.
 								</p>
@@ -303,7 +303,7 @@ export default function Home() {
 							Ready to Secure Your Digital Life?
 						</h2>
 						<p className="text-xl opacity-90 max-w-2xl mx-auto">
-							Join PhishShield AI today and experience the future of
+							Join TrustNet Cybercop today and experience the future of
 							cybersecurity. Protect yourself and your loved ones from online
 							threats.
 						</p>
@@ -334,7 +334,7 @@ export default function Home() {
 						<div className="space-y-4">
 							<div className="flex items-center gap-2">
 								<Shield className="h-6 w-6 text-primary" />
-								<span className="text-lg font-bold">PhishShield AI</span>
+								<span className="text-lg font-bold">TrustNet Cybercop</span>
 							</div>
 							<p className="text-muted-foreground">
 								Advanced AI-powered protection against phishing and cyber
@@ -407,7 +407,7 @@ export default function Home() {
 					</div>
 
 					<div className="mt-12 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-						<p>&copy; 2025 PhishShield AI. All rights reserved.</p>
+						<p>&copy; 2025 TrustNet Cybercop. All rights reserved.</p>
 					</div>
 				</div>
 			</footer>

@@ -52,12 +52,12 @@ export const Navbar = () => {
             <div className="relative">
               <img 
                 src={logo} 
-                alt="PhishShield AI" 
+                alt="TrustNet Cybercop" 
                 className="h-8 w-8 group-hover:scale-110 transition-transform duration-200"
               />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              PhishShield AI
+              TrustNet Cybercop
             </span>
           </Link>
 

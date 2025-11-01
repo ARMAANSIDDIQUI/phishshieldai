@@ -91,12 +91,12 @@ export default function Login() {
           <CardHeader className="text-center space-y-4">
             <div className="flex justify-center">
               <div className="w-16 h-16 bg-gradient-primary rounded-2xl flex items-center justify-center">
-                <img src={logo} alt="PhishShield AI" className="w-10 h-10" />
+                <img src={logo} alt="TrustNet Cybercop" className="w-10 h-10" />
               </div>
             </div>
             <div>
               <CardTitle className="text-2xl font-bold">Welcome back</CardTitle>
-              <CardDescription>Sign in to your PhishShield AI account</CardDescription>
+              <CardDescription>Sign in to your TrustNet Cybercop account</CardDescription>
             </div>
           </CardHeader>
 

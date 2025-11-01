@@ -87,7 +87,7 @@ export default function Signup() {
           <CardHeader className="text-center space-y-4">
             <div className="flex justify-center">
               <div className="w-16 h-16 bg-gradient-primary rounded-2xl flex items-center justify-center">
-                <img src={logo} alt="PhishShield AI" className="w-10 h-10" />
+                <img src={logo} alt="TrustNet Cybercop" className="w-10 h-10" />
               </div>
             </div>
             <div>

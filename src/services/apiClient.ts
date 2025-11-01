@@ -1,4 +1,4 @@
-// API Client for PhishShield AI
+// API Client for TrustNet Cybercop
 // Handles all HTTP requests with authentication and error handling
 
 interface ApiResponse<T = any> {
